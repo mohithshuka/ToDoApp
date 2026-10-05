@@ -11,22 +11,26 @@ The app helps users create, organize, track, and complete tasks with useful deta
 ### 🔐 Sign In
 Users can sign in with their email and password.
 
-![Sign In](screenshots/login.jpeg)
+![Sign In](<img width="574" height="1279" alt="pic1" src="https://github.com/user-attachments/assets/24bbfedc-e871-4270-9abc-7f7fcf7ace81" />
+)
 
 ### 📋 My Tasks
 View all tasks, filter between active and completed tasks, mark tasks as complete, and delete tasks.
 
-![My Tasks](screenshots/tasks.jpeg)
+![My Tasks](<img width="574" height="1279" alt="pic2" src="https://github.com/user-attachments/assets/41f63da8-fc57-4818-922c-0e5ea6e6e696" />
+)
 
 ### ✅ Completed Task
 Completed tasks are visually separated and can be viewed from the **Completed** tab.
 
-![Completed Task](screenshots/completed-task.jpeg)
+![Completed Task](<img width="574" height="1279" alt="pic3" src="https://github.com/user-attachments/assets/c8d42a00-28ff-4cf0-99e8-dae763d2cb63" />
+)
 
 ### ➕ Create a New Task
 Create a task with a title, description, start date/time, deadline, priority, and category.
 
-![New Task](screenshots/new-task.jpeg)
+![New Task](<img width="574" height="1279" alt="pic4" src="https://github.com/user-attachments/assets/671bd2c0-3982-4230-a4c8-781ed551072f" />
+)
 
 ---
 
